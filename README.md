@@ -1,2 +1,2 @@
 # hello-world
-A practice reop
+A practice repo
